@@ -48,3 +48,6 @@ func produceFullName(withFirstName firstName: String, middleName: String?, lastN
 
 produceFullName(withFirstName: "Jon", middleName: "Bon", lastName: "Jovi")
 produceFullName(withFirstName: "Mary", middleName: nil, lastName: "Doe")
+
+produceFullName(withFirstName: <#T##String#>) //playing around....in playground
+
